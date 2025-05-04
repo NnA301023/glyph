@@ -179,10 +179,6 @@ The application includes comprehensive error handling:
    - Maintain changelog
    - Document breaking changes
 
-## 📝 License
-
-MIT License - See LICENSE file for details
-
 ## 🤝 Contributing
 
 1. Fork the repository

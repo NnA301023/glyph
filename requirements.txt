@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+langgraph>=0.0.15
+tavily-python>=0.3.1
+python-dotenv>=1.0.0
+firecrawl>=0.1.0
+markdown>=3.5.2 

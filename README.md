@@ -1,4 +1,4 @@
-# 📝 Glyph: AI-Powered Article Generator
+<h1 align="center">📝 Glyph: AI-Powered Article Generator</h1>
 
 A sophisticated Streamlit application that generates well-structured articles using a multi-agent workflow powered by LangGraph. This tool combines AI planning, research, writing, and SEO optimization to create high-quality content.
 
